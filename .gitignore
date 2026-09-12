@@ -1,0 +1,13 @@
+# Python virtual environment — 115 MB of downloaded packages, recreated
+# from the project files rather than tracked.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and downloaded tabs
+.env
+*.gp5
+output/
+
+.DS_Store
